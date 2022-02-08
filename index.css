@@ -40,3 +40,7 @@ a:hover{
 .skills .sub-skills .skilltitle{
     font-family: 'Times New Roman', Times, serif;
 }
+
+.contact{
+    margin-bottom: 30px;
+}
